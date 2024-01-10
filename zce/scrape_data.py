@@ -25,7 +25,7 @@ chrome_options.add_argument("--incognito")
 
 # Default download directory
 prefs = {
-    "download.default_directory": r"C:\Users\User\Curveseries\Curveseries Private Limited - Interns\Kwok Yong\zce"
+    "download.default_directory": r"xxx\zce"
 }
 chrome_options.add_experimental_option("prefs",prefs)
 
